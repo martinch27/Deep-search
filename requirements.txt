@@ -1,0 +1,13 @@
+openai
+python-dotenv
+aiohttp
+asyncio
+beautifulsoup4
+lxml
+pydantic
+openai-agents==0.0.7
+md2pdf
+transformers>=4.43.0
+accelerate
+bitsandbytes>0.37.0
+vllm
